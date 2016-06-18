@@ -3,7 +3,7 @@ Type: Package
 Title: Data for the 2016 NCAR Data bootcamp Intro to R
 Version: 0.1.0
 Author: Sean Lopp
-Maintainer: Sean Lopp
+Maintainer: Sean Lopp <sean@rstudio.com>
 Description: Just a simple data set with daily temperature data for Boulder.
 License: GPL-3
 Encoding: UTF-8
